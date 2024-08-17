@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleApp1.Ex2.main2</StartupObject>
+    <StartupObject>ConsoleApp1.Ex5.main5</StartupObject>
   </PropertyGroup>
 
 </Project>
