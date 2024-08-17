@@ -30,7 +30,7 @@ namespace ConsoleApp1.Ex6
     {
         static int Main(string[] args)
         {
-            
+            Console.WriteLine("Teste de commit!!!");
             return 0;
         }
     }
