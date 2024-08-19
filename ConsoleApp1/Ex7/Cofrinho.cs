@@ -29,5 +29,20 @@ namespace ConsoleApp1.Ex7
             }
             return total;
         }
+
+        public int numeroMoedas()
+        {
+            return cofres.Count;
+        }
+
+        public int moedasPorValor(double valor)
+        {
+            return cofres.Where(m => m.getValor() == valor).Count();
+        }
+
+        public double maiorMoeda()
+        {
+            return cofres.Max(m => m.getValor());
+        }
     }
 }

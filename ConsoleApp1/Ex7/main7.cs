@@ -30,7 +30,11 @@ namespace ConsoleApp1.Ex7
             cofrinho.adicionar(m1);
             cofrinho.adicionar(m2);
 
-            Console.WriteLine($"R${cofrinho.calcularTotal()}"); ;
+            Console.WriteLine($"R${cofrinho.calcularTotal()}");
+
+            Console.WriteLine($"{cofrinho.maiorMoeda()}");
+            Console.WriteLine($"{cofrinho.moedasPorValor(0.25)}");
+            Console.WriteLine($"{cofrinho.numeroMoedas()}");
 
             return 0;
         }
