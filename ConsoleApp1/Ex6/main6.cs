@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ConsoleApp1.Ex6;
 
 /*
  
@@ -30,7 +31,20 @@ namespace ConsoleApp1.Ex6
     {
         static int Main(string[] args)
         {
-            Console.WriteLine("Teste de commit!!!");
+            Loja loja = new();
+            Produto produto1 = new("bone", 20, 100);
+
+            Produto produto2 = new("bucket", 50,20);
+
+            Produto produto3 = new("uniforme", 1, 100);
+
+            loja.addProduto(produto1);
+            loja.addProduto(produto2);
+            loja.addProduto(produto3);
+
+            loja.listarProdutos();
+
+
             return 0;
         }
     }

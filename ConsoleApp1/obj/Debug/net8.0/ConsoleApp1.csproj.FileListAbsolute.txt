@@ -26,3 +26,18 @@ C:\Users\shawd\OneDrive\Área de Trabalho\UVV\POO II\Codar-em-OO-main\ConsoleApp
 C:\Users\shawd\OneDrive\Área de Trabalho\UVV\POO II\Codar-em-OO-main\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\shawd\OneDrive\Área de Trabalho\UVV\POO II\Codar-em-OO-main\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\shawd\OneDrive\Área de Trabalho\UVV\POO II\Codar-em-OO-main\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\shawd\Source\Repos\andreihmm\Codar-em-OO\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
